@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@compound-finance/compound-js": "^0.2.13",
+    "@openzeppelin/contracts": "^4.2.0",
+    "bn": "^1.0.5"
+  }
+}
