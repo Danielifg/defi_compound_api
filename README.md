@@ -1,6 +1,6 @@
 # Compound Protocol 
 
-Active Defi CToken's practice
+Active Defi CToken's research
 
 ## Supply & Redeem
 
